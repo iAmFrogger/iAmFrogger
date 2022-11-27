@@ -1,9 +1,5 @@
 **About me**
 
-
-i code random sh1t becuz i want to
-
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iAmFrogger&show_icons=true&theme=dark)
 
 
